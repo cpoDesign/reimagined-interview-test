@@ -19,6 +19,7 @@ namespace ConsoleApplication1
      * - Convert  System.IO.File.WriteAllText into own class 
      * - Write unit test for IWebNotification
      * - Improve WebNotification code structure
+     * - Remove unused code
      * Use log section
      * - Rewrite log section to better practices and print only one line with message
      * Important you must do
