@@ -20,6 +20,7 @@ namespace ConsoleApplication1
      * - Write unit test for IWebNotification
      * - Improve WebNotification code structure
      * - Rewrite log section to better practices and print only one line with message
+     * - Finish off by submitting PR(pull request)
     */
 
     class Program
